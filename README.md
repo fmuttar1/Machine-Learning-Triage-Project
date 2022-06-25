@@ -1,0 +1,2 @@
+# Machine-Learning-Triage-Project
+Triage is the process of managing medical demand by assessing the symptoms of incoming patients and scheduling their treatments in order to get the best possible outcome from a flow of patients. The Korean Triage and Acuity Scale (KTAS) is a standard scale used for classifying patients for triage. The project aims to study the impact of various machine learning techniques to improve the efficiency of triage as compared to conventional methods.
